@@ -1,0 +1,45 @@
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: rgb(252, 232, 50);
+}
+
+.content{
+    width:100%;
+    height: 30%;
+    background-image: url('../image/content.jpg');
+padding-top: 70px;
+padding-bottom: 70px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content{
+    text-align: center;
+}
+ .content h1{
+    color: white;
+    margin-top: 20px;
+}
+
+.fas{
+    margin-left: 40%;
+    padding: 5px;
+}
+
+.address p{
+    margin-left: 43%;
+    color: rgb(119, 113, 113);
+    padding: 0;
+}
+
+.btn-primary {
+    background-color: rgb(252, 232, 50);
+}
+.container a{
+    display: block;
+    background: rgb(252, 232, 50) ;
+    margin-left: 73%;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+}
+
